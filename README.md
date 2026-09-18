@@ -6,6 +6,7 @@
 - 🦇 Pronouns: KiddKarzo
 - 🎙️ Fun fact: I make music
 
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1yyc0lq16y26asy1qfelgd7ac)
 <!---
 Karzo/Karzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
