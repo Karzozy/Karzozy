@@ -4,14 +4,7 @@
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1yyc0lq16y26asy1qfelgd7ac)
 
   
-  <metadata>
-    <info>
-      <frames>562</frames>
-      <frameRate>5</frameRate>
-      <durationMs>112400</durationMs>
-      <generatedOn>2025-11-09T09:31:10.661Z</generatedOn>
-    </info>
-  </metadata>
+ 
   <rect width="100%" height="100%" fill="#0d1117" />
   <defs>
     <symbol id="ghost-blinky-up" viewBox="0 0 20 20">
