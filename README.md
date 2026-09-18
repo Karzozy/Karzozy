@@ -1,11 +1,5 @@
 <img width="1166" height="184" alt="pacman" src="https://github.com/user-attachments/assets/b3ace8e7-7390-494c-9827-0e4bb5615de5" />
-- 🐈 Hi, I’m @Karzo 
-- 🎹 I’m interested in develop apps and any project that has an impact
-- 🎶 I’m currently learning software development
-- 🎧 I’m looking to collaborate on whatever
-- 🧟‍♂️ How to reach me davidarias@unicauca.edu.co
-- 🦇 Pronouns: KiddKarzo
-- 🎙️ Fun fact: I make music
+
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1yyc0lq16y26asy1qfelgd7ac)
 
