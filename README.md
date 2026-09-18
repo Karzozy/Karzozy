@@ -3,7 +3,7 @@
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1yyc0lq16y26asy1qfelgd7ac)
 
-  <desc>Generated with pacman-contribution-graph on Sun Nov 09 2025 10:31:10 GMT+0100 (Central European Standard Time)</desc>
+  
   <metadata>
     <info>
       <frames>562</frames>
